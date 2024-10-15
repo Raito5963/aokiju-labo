@@ -1,6 +1,9 @@
+<script setup lang="ts">
+  const message = ref<string>("Hello Aokiju!")
+</script>
+
 <template>
   <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <h1>{{ message }}</h1>
   </div>
 </template>
