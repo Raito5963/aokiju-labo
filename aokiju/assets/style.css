@@ -4,36 +4,41 @@
 }
 
 a{
-    color:#1aff00;
+    color:#ffffff;
     text-decoration:none;
 }
 
 a:visited{
-    color:#1aff00;
+    color:#ffffff;
 }
 
 a:hover{
-    color:#fff;
+    color:#424242;
 }
 
 h2{
-    color: #1aff00;
+    color: #ffffff;
 }
 
 h3{
-    color: #fff;
+    color: #424242;
 }
 
 .abutton{
     width: 4rem;
     height: 2rem;
-    background-color: #1aff00;
+    background-color: #b2dfdb;
     border:none;
     border-radius: 0.5rem;
 }
 
 .abutton:hover{
     background-color: #fff;
+}
+
+hr{
+    background-color: #fff;
+    height: 1rem;
 }
 
 header {
@@ -44,8 +49,8 @@ header {
     margin-top: -1.5rem;
     padding:1rem;
     text-align: center;
-    background-color: #112d58;
-    color:#1aff00;
+    background-color: #424242;
+    color:#de3607;
 
 }
 
@@ -53,22 +58,25 @@ body{
     width: auto;
     height: auto;
     padding: 1rem;
-    background-color: #025465;
+    background-color: #424242;
 }
 
 .section{
-    background-color: #227008;
+    background-color: #2969ff;
+    padding: 2rem;
+    margin-top: 2rem;
+    border-radius: 2rem;
 }
 
 footer {
     width: auto;
     height: auto;
-    margin-left: -1rem;
-    margin-right: -1rem;
+    margin-left: -2rem;
+    margin-right: -2rem;
     margin-bottom: -1.5rem;
     padding:1rem;
     text-align: center;
     background-color: #000;
-    color:#1aff00;
+    color:#b2dfdb;
 
 }
