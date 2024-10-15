@@ -4,6 +4,6 @@
 
 <template>
   <div>
-    <h1>{{ message }}</h1>
+    <NuxtPage />
   </div>
 </template>
