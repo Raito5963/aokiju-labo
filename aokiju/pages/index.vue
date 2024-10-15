@@ -3,9 +3,48 @@
 </script>
 
 <template>
-  <div>
-    <NuxtLink to="/price">料金ページへ</NuxtLink>
-    <br />
-    <NuxtLink to="https://www.google.co.jp">Google</NuxtLink>
+<body>
+  <div class="section">
+    <div class="title">
+      <h2>Welcome to Aokiju Labo!</h2>
+    </div>
+    <div class="text">
+      <h3>
+        <p>こんにちは！Raitoです！</p>
+        <p>ついにバージョンが上がりました！</p>
+        <p>元のサイトはHTML/CSSでコーディングしてましたが、Ver.2.0からNode.js/Nuxt.jsでコーディングしています！</p>
+        <p>HTML/CSSでできなかったことができるようになったので、適当に試してみたいと思います！</p>
+      </h3>
+    </div>
   </div>
+
+  <div class="section">
+    <div class="title">
+      <h2>自己紹介</h2>
+    </div>
+      <div class="text">
+        <h3>
+          <p>名前：Raito</p>
+          <p>好きな食べ物は和菓子</p>
+          <p>趣味はルービックキューブ!</p>
+          <p>3×3の自己ベストは12.95秒</p>
+          <p>C++,C,Ruby,JavaScriptを勉強中!</p>
+        </h3>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="title">
+        <h2>作成したもの</h2>
+      </div>
+      <div class="text">
+        <a href = "index.html">Aokiju Labo</a>
+        <p>このサイトです。自分の制作したものや趣味のものを載せています。自分の技術が上がったらアップデートしていきます。</p>
+      </div>
+      <div class="explain">
+        <a href = "/page/rubiks/rubiks-index.html">ルービックキューブのページ</a>
+      <p>趣味を語るブログです！初心者向けの開放も載せてあります！ぜひご覧ください！</p>
+    </div>
+  </div>
+</body>
 </template>
