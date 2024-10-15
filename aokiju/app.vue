@@ -1,9 +1,13 @@
 <script setup lang="ts">
-  const message = ref<string>("Hello Aokiju!")
+ useHead({
+  title: "Aokiju Labo", // titleタグ設定
+});
 </script>
 
 <template>
   <div>
-    <NuxtPage />
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
