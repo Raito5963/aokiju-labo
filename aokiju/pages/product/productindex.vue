@@ -10,7 +10,7 @@
             <div class="text">
                 <ul>
                     <h3>
-                        <li><NuxtLink to= "/product/aokijulabo">Aokiju Labo</NuxtLink></li>
+                        <li><NuxtLink to="/product/aokijulabo">Aokiju Labo</NuxtLink></li>
                     </h3>
                 </ul>
             </div>
