@@ -35,7 +35,7 @@
 
   <div class="section">
     <div class="title">
-      <h2><NuxtLink to="/product/productindex">作成したもの</NuxtLink></h2>
+      <h2><NuxtLink to="/">作成したもの</NuxtLink></h2>
     </div>
     <div class="text">
       <h3>
@@ -46,7 +46,7 @@
 
   <div class="section">
     <div class="title">
-      <h2><NuxtLink to="/news/newsindex/">ニュース</NuxtLink></h2>
+      <h2><NuxtLink to="/">ニュース</NuxtLink></h2>
     </div>
         <div class="text">
           <h3>
