@@ -5,7 +5,6 @@
 <template>
     <header>
         <NuxtLink to="/"><h1>Aokiju Labo Ver.2.0</h1></NuxtLink>
-        <hr />
     </header>
 
  <!-- 下記slotは、NuxtLayoutコンポーネントの子要素に差し代わる -->

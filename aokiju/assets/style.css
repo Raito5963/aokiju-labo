@@ -4,16 +4,16 @@
 }
 
 a{
-    color:#ffffff;
+    color:#5c821a;
     text-decoration:none;
 }
 
 a:visited{
-    color:#ffffff;
+    color:#5c821a;
 }
 
 a:hover{
-    color:#424242;
+    color:#fff;
 }
 
 h2{
@@ -21,28 +21,23 @@ h2{
 }
 
 h3{
-    color: #424242;
+    color: #0f1b07;
 }
 
 h4{
-    color: #fff;
+    color: #0f1b07;
 }
 
 .abutton{
     width: 4rem;
     height: 2rem;
-    background-color: #b2dfdb;
+    background-color: #5c821a;
     border:none;
     border-radius: 0.5rem;
 }
 
 .abutton:hover{
     background-color: #fff;
-}
-
-hr{
-    background-color: #fff;
-    height: 1rem;
 }
 
 header {
@@ -53,7 +48,7 @@ header {
     margin-top: -1.5rem;
     padding:1rem;
     text-align: center;
-    background-color: #424242;
+    background-color: #0f1b07;
 
 }
 
@@ -61,11 +56,11 @@ body{
     width: auto;
     height: auto;
     padding: 1rem;
-    background-color: #424242;
+    background-color: #0f1b07;
 }
 
 .section{
-    background-color: #2969ff;
+    background-color: #c6d166;
     padding: 2rem;
     margin-top: 2rem;
     border-radius: 2rem;
@@ -79,6 +74,6 @@ footer {
     margin-bottom: -1.5rem;
     padding:1rem;
     text-align: center;
-    background-color: #000;
+    background-color: #0f1b07;
 
 }
