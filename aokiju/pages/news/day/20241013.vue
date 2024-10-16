@@ -13,7 +13,7 @@
                     <p />
                     <NuxtLink to="">前の記事</NuxtLink>
                     <d>　</d>
-                    <NuxtLink to="">次の記事</NuxtLink>
+                    <NuxtLink to="/news/day/20241016">次の記事</NuxtLink>
                 </h3>
             </div>
         </div>

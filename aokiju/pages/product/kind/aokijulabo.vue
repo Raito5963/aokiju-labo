@@ -10,6 +10,8 @@
                     <p>ポートフォリオ兼自分の腕磨きの場として作りました！</p>
                     <p>現在のバージョンは2.0です！</p>
                     <p>Node.js,Nuxt.jsを使用しています。</p>
+                    <p />
+                    <p><NuxtLink to="/product/productindex">作ったものページに戻る</NuxtLink></p>
                 </h3>
             </div>
         </div>
