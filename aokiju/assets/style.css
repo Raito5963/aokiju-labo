@@ -4,20 +4,28 @@
 }
 
 a{
-    color:#5c821a;
-    text-decoration:none;
+    color:#fff;
 }
 
 a:visited{
-    color:#5c821a;
+    color:#000;
 }
 
 a:hover{
     color:#fff;
+    text-decoration: underline;
+}
+
+h1{
+    color: #000;
+}
+
+h1:hover{
+    text-decoration: underline;
 }
 
 h2{
-    color: #ffffff;
+    color: #000;
 }
 
 h3{
@@ -60,7 +68,7 @@ body{
 }
 
 .section{
-    background-color: #c6d166;
+    background-color: #c4c4c4;
     padding: 2rem;
     margin-top: 2rem;
     border-radius: 2rem;
